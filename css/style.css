@@ -30,7 +30,7 @@ header h1{color:#ffffff ; text-align: center;font-size: 1.7em;padding: 3vh 0;tex
 .p4 img{ width: 30vw;display: block;margin: 0 auto;padding: 5vh 0;}
 
 @media screen and (max-width:900px){
-    header h1, .p2 h1{font-size: 1.3em;}
+    header h1, .p2 h1, .p3 h1{font-size: 1.3em;}
 
     .p1-item{width: 90vw;}
     .p1-item h2{font-size: 1.1em;}
